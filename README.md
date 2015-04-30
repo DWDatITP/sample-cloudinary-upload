@@ -3,12 +3,15 @@
 This is a sample app showing how to get an express app
 running with the cloudinary add-on at heroku.
 
+More docs on cloudinary [at github](https://github.com/cloudinary/cloudinary_npm)
+and [at heroku](https://devcenter.heroku.com/articles/cloudinary).
+
 ## Install
 
 To install and run this app:
 
   * clone the code:
-  * `git clone ...`
+  * `git clone https://github.com/DWDatITP/sample-cloudinary-upload.git`
   * cd into the directory:
   * `cd sample-cloudinary-upload`
   * install npm modules from package.json:
